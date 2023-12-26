@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\Code Generator\Code Generator\bin\Debug\Code Generator.exe.config
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\Code Generator\Code Generator\bin\Debug\Code Generator.exe
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\Code Generator\Code Generator\bin\Debug\Code Generator.pdb
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\Code Generator\Code Generator\obj\Debug\Code_Generator.Properties.Resources.resources
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\Code Generator\Code Generator\obj\Debug\Code Generator.exe
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\Code Generator\Code Generator\obj\Debug\Code Generator.pdb
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\Code Generator\Code Generator\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.CopyComplete
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\Code Generator\Code Generator\obj\Debug\Code_Generator.Form3.resources
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\ProjectOne\Code Generator\Code Generator\bin\Debug\Code Generator.exe.config
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\ProjectOne\Code Generator\Code Generator\bin\Debug\Code Generator.exe
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\ProjectOne\Code Generator\Code Generator\bin\Debug\Code Generator.pdb
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\ProjectOne\Code Generator\Code Generator\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\ProjectOne\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\ProjectOne\Code Generator\Code Generator\obj\Debug\Code_Generator.Form1.resources
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\ProjectOne\Code Generator\Code Generator\obj\Debug\Code_Generator.Properties.Resources.resources
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\ProjectOne\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\ProjectOne\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\ProjectOne\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.CopyComplete
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\ProjectOne\Code Generator\Code Generator\obj\Debug\Code Generator.exe
+C:\Users\Admin\Desktop\uni-course\2nd Year First Sem\VisualProgramming - C#\ProjectOne\Code Generator\Code Generator\obj\Debug\Code Generator.pdb
+C:\Users\kasun\Desktop\New folder\Code Generator\Code Generator\bin\Debug\Code Generator.exe.config
+C:\Users\kasun\Desktop\New folder\Code Generator\Code Generator\bin\Debug\Code Generator.exe
+C:\Users\kasun\Desktop\New folder\Code Generator\Code Generator\bin\Debug\Code Generator.pdb
+C:\Users\kasun\Desktop\New folder\Code Generator\Code Generator\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\kasun\Desktop\New folder\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.AssemblyReference.cache
+C:\Users\kasun\Desktop\New folder\Code Generator\Code Generator\obj\Debug\Code_Generator.Form1.resources
+C:\Users\kasun\Desktop\New folder\Code Generator\Code Generator\obj\Debug\Code_Generator.Properties.Resources.resources
+C:\Users\kasun\Desktop\New folder\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.GenerateResource.cache
+C:\Users\kasun\Desktop\New folder\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.CoreCompileInputs.cache
+C:\Users\kasun\Desktop\New folder\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.CopyComplete
+C:\Users\kasun\Desktop\New folder\Code Generator\Code Generator\obj\Debug\Code Generator.exe
+C:\Users\kasun\Desktop\New folder\Code Generator\Code Generator\obj\Debug\Code Generator.pdb
