@@ -26,21 +26,21 @@ namespace Code_Generator
 
         private string codeType = null;
 
-        private string name;
-        private string price;
-        private string weigth;
-        private string manufacture;
-        private string expaire;
-        private string comName;
+        private string name = "null";
+        private string price = "null";
+        private string weigth = "null";
+        private string manufacture = "null";
+        private string expaire = "null";
+        private string comName = "null";
 
-        private string webSite;
-        private string phoneNumber;
-        private string description;
+        private string webSite = "null";
+        private string phoneNumber = "null";
+        private string description = "null";
 
         private Form1 detailsBack;
 
-        //private Form2 form2;
-        //private Form3 form3;
+        private Form2 form2;
+        private Form3 form3;
         public Form1()
         {
             InitializeComponent();
@@ -70,13 +70,13 @@ namespace Code_Generator
         //Adding details to create the code and go to form2
         private void buttonGenerate_Click(object sender, EventArgs e)
         {
-           /*addValuesToVariable();
+            addValuesToVariable();
            if (form2 == null || form2.IsDisposed)
            {
                MessageBox.Show("Generated Successfully..!");
                form2 = new Form2(this);
                form2.Show();
-           }*/
+           }
            
         }
 
@@ -209,7 +209,7 @@ namespace Code_Generator
                         errorProvider1.SetError(textBox, "(Ex - www.example.com)..!");
                         return null;
                     case "textBoxDes":
-                        errorProvider1.SetError(textBox, "Numbers only can be applied..!");
+                        errorProvider1.SetError(textBox, "Symbols can be applied..!");
                         return null;
                     default:
                         return null;
@@ -222,16 +222,16 @@ namespace Code_Generator
         private void button1_Click(object sender, EventArgs e)
         {
             
-            //form3 = new Form3();
-            //form3.Show();
+            form3 = new Form3();
+            form3.Show();
             this.Close();
         }
 
         //Go back to home panel
         private void buttonHome_Click(object sender, EventArgs e)
         {
-            //Form5 form5 = new Form5();
-            //form5.Show();
+            Form5 form5 = new Form5();
+            form5.Show();
             this.Close();
         }
     }
